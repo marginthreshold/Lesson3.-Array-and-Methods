@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\bin\Debug\net6.0\3D Coodinates.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\bin\Debug\net6.0\3D Coodinates.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\bin\Debug\net6.0\3D Coodinates.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\bin\Debug\net6.0\3D Coodinates.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\bin\Debug\net6.0\3D Coodinates.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\refint\3D Coodinates.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\3D Coodinates.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\3D Coodinates\obj\Debug\net6.0\ref\3D Coodinates.dll

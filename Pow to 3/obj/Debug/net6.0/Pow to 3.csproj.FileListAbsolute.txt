@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\bin\Debug\net6.0\Pow to 3.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\bin\Debug\net6.0\Pow to 3.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\bin\Debug\net6.0\Pow to 3.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\bin\Debug\net6.0\Pow to 3.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\bin\Debug\net6.0\Pow to 3.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\refint\Pow to 3.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\Pow to 3.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson3. Arrays and Methods\Pow to 3\obj\Debug\net6.0\ref\Pow to 3.dll
